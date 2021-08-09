@@ -8,7 +8,7 @@ int main ()
     float c, f;
     setlocale (LC_ALL,"");
 
-     printf ("Informe a temperatura em gruas  Fahrenheit:");
+     printf ("Informe a temperatura em graus  Fahrenheit:");
      scanf("%f",&f);
 
      c = (f-32)/1.8;
